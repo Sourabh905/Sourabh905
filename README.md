@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Sourabh905
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @Sourabh905
+- 👀 I’m interested in Data Analyst.
 
-<!---
-Sourabh905/Sourabh905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced Data Scientist with over 2+ years of working on real-world datasets; collecting, analyzing, and interpreting large and complex data sets to identify patterns, trends, and insights that inform business decisions. and using various data visualization techniques to communicate insights and findings effectively. also, designing and implementing models,algorithms, and statistical analyses to solve specific business problems and develop predictive models.
+
+
+Top skills:
+
+Statistics & Probability
+Machine Learning
+Python (Programming Language)
+SQL
+Microsoft Power bi- 
