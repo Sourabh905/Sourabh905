@@ -8,7 +8,7 @@ Top skills:
 * Machine Learning
 * Python (Programming Language)
 * SQL MYSQL
-* Microsoft Power bi- 
+* Microsoft Power BI
 * Advance excel
 * Pandas 
 * Seaborn
