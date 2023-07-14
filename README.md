@@ -9,5 +9,10 @@ Top skills:
 Statistics & Probability
 Machine Learning
 Python (Programming Language)
-SQL
+SQL MYSQL
 Microsoft Power bi- 
+Advance excel
+Pandas 
+Seaborn
+Matplotlib
+Numpy
